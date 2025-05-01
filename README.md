@@ -59,10 +59,10 @@ Pentru ca fiecare comanda `RUN` creeaza un strat nou. Fisierele sterse intr-un s
 ### 3. Ce este repachetarea imaginii?
 Repachetarea consta in exportarea unui container Docker si importarea sistemului sau de fisiere intr-o imagine noua. Astfel, se elimina metadatele si unele straturi neoptimizate, ceea ce poate reduce dimensiunea imaginii.
 
-## ?? Concluzii
+##  Concluzii
 - Optimizarea imaginilor este esentiala pentru spatiu de stocare si eficienta.
 - Combinarea mai multor metode aduce cele mai bune rezultate.
 - Alpine este o alegere excelenta pentru imagini Docker minimaliste.
 
-## t? Repozitoriu
+##  Repozitoriu
 [Link catre repozitoriu GitHub](https://github.com/ArtemieJ/containers09)
